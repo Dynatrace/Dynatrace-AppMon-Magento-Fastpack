@@ -6,4 +6,4 @@ Dynatrace fastpack for Magento eCommerce monitoring
 contains system profile and dashboards
 
 find further information on our community pages
--> http://community.dynatrace.com/....
+https://community.dynatrace.com/community/display/DL/Magento+Fastpack
