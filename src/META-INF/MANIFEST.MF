@@ -4,9 +4,9 @@ Created-By: 19.0-b09 (Sun Microsystems Inc.)
 Bundle-ManifestVersion: 2
 Bundle-Name: Magento
 Bundle-SymbolicName: com.dynatrace.diagnostics.magento;singleton:=true
-Bundle-Version: 6.2.0.1201
+Bundle-Version: 6.2.0.0
 Bundle-Vendor: Dynatrace
 Built-By: harald.zeitlhofer
-Implementation-Version: 6.2.0.1201
+Implementation-Version: 6.2.0.0
 Require-Bundle: com.dynatrace.diagnostics.sdk
 
