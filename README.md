@@ -1,9 +1,5 @@
-# Dynatrace-Magento-Fastpack
-Dynatrace fastpack for Magento eCommerce monitoring
-
+## Magento Fastpack
 ![images/Magento_logo.png](images/Magento_logo.png) 
+Dynatrace fastpack for Magento eCommerce monitoring. Contains system profile and dashboards.
 
-contains system profile and dashboards
-
-find further information on our community pages
-https://community.dynatrace.com/community/display/DL/Magento+Fastpack
+Find further information in the [Dynatrace community](https://community.dynatrace.com/community/display/DL/Magento+Fastpack)
